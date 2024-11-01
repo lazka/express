@@ -2,3 +2,9 @@ venv
 express.json
 first.json
 native-ad.json
+avg_lexical_diversity_plot.png
+avg_sentence_count_plot.png
+avg_sentence_length_plot.png
+avg_word_count_plot.png
+category_monthly_stats.xlsx
+~$category_monthly_stats.xlsx
